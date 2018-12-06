@@ -1,2 +1,2 @@
 # datascirepo
-This is a repo forprojects in data science online courses. 
+This is a repo for projects in data science online courses. 
