@@ -1,2 +1,2 @@
 # datascirepo
-This is a test repo for dstoolbox class. 
+This is a repo forprojects in data science online courses. 
